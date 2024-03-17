@@ -7,7 +7,7 @@ Kelompok 1 B 2021 :
 - 2109106105 Rhesa Binsar Jeremiah Simbolon
 
 
-## Rangkaian untuk mengatur dan memonitor value dari buzzer dan LED dengan web server modul esp2866
+## Rangkaian untuk mengatur dan memonitor value dari buzzer dan LED dengan web server modul esp8266
 
 Perangkat ini dibuat untuk mengontrol 1 lampu LED dan 1 Piezoo Buzzer untuk mengontrol nilai keterangan dan suara dengan button
 
